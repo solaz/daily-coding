@@ -133,7 +133,7 @@ int main()
 	BinaryTree* bt = new BinaryTree();
 	char p; char l; char r;
 
-	freopen("input.txt", "r", stdin);
+	//freopen("input.txt", "r", stdin);
 	scanf("%d", &cnt);
 
 	for (i = 0; i<cnt; i++) {
