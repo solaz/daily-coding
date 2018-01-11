@@ -1,0 +1,4 @@
+﻿  solution.cpp
+d:\development\microsoft\workspace\projects\bignumbercalculator\bignumbercalculator\solution.cpp(204): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  BigNumberCalculator.vcxproj -> D:\Development\Microsoft\workspace\Projects\BigNumberCalculator\Debug\BigNumberCalculator.exe
+  BigNumberCalculator.vcxproj -> D:\Development\Microsoft\workspace\Projects\BigNumberCalculator\Debug\BigNumberCalculator.pdb (Partial PDB)

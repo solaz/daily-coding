@@ -1,0 +1,5 @@
+﻿  solution.cpp
+d:\development\microsoft\workspace\projects\binarytreetraversal\binarytreetraversal\solution.cpp(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  d:\development\microsoft\workspace\projects\binarytreetraversal\binarytreetraversal\solution.cpp(1): note: 명령줄 인수: '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  BinaryTreeTraversal.vcxproj -> D:\Development\Microsoft\workspace\Projects\BinaryTreeTraversal\Debug\BinaryTreeTraversal.exe
+  BinaryTreeTraversal.vcxproj -> D:\Development\Microsoft\workspace\Projects\BinaryTreeTraversal\Debug\BinaryTreeTraversal.pdb (Partial PDB)
